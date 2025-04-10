@@ -200,3 +200,9 @@ else if(window.innerWidth > 325){
     ScrollReveal().reveal('.page5 .box h4', { origin:'left'});
 
 }
+window.addEventListener("load", function () {
+    setTimeout(() => {
+        document.querySelector(".loader").style.display = "none";
+    }, 3000); // Adjust timing if needed
+});
+
