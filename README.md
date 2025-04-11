@@ -9,3 +9,5 @@
 Dynamic online portfolio featuring visually appealing GSAP animations that creatively showcase my personal and project highlights. 
 
 It is made using Html, Css, Js, GSAP, Locomotive.js.
+# Ayush portfolio
+### 👉 [ayush-portfolio-teal.vercel.app]
