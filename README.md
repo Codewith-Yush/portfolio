@@ -72,7 +72,3 @@ This project was deployed using [**Vercel**](https://vercel.com):
 
 Feel free to reach out for collaborations, feedback, or just to say hi!  
 Let’s build something amazing together. 🚀
-
----
-
-Want to add badges, contact links, or social icons next? I can help with that too!
